@@ -12,10 +12,7 @@
 5. Método de pago(Trajeta de crédito).
 6. Opcion de atencion al cliente.
 7. Teléfono de contacto.
-
-Queda por añadir:
-
-1. Los productos.
+8. Los productos.
 
 ## Patrón de diseño Observer
 
